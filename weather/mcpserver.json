@@ -4,7 +4,7 @@
       "command": "uv",
       "args": [
         "--directory",
-        "/workspaces/MultiAgent/weather/weather.py",
+        "/workspaces/MultiAgent/weather",
         "run",
         "weather.py"
       ]
